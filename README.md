@@ -511,7 +511,7 @@ ios原生的socket用起来不是很直观，所以一般使用AsyncSocket第三
 
 
 ---
-来源：网络整理
+来源：网络整理 => [阅读原文](http://www.jianshu.com/p/f78491e27c74)
 ### 参考
 - 原理篇
     - [iOS开发网络篇—Socket编程](http://www.cnblogs.com/hissia/p/5687769.html)
